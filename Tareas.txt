@@ -1,8 +1,16 @@
-Para mañana (11/10)
-1. Terminar ejercicio interactivo:
-    https://flukeout.github.io/
-2. Leer sobre Bootstrap:
+Para (11/10)
+    1. Terminar ejercicio interactivo:
+        https://flukeout.github.io/
+    2. Leer sobre Bootstrap:
         -Introducción
         -Sistema de Grillas
         -Content en general
         -Componentes en general
+
+Para (12/10)
+    1. Javascript on CodeAcademy
+
+Para (13/10)
+
+typeScript in 5 minutes
+OOP in Javascript
