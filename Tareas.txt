@@ -11,6 +11,5 @@ Para (12/10)
     1. Javascript on CodeAcademy
 
 Para (13/10)
-
-typeScript in 5 minutes
-OOP in Javascript
+    1. TypeScript in 5 minutes
+    2. OOP in Javascript
